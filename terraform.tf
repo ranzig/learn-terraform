@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: MPL-2.0
 
 terraform {
-/*
+/* not needed when VCM is used in HCP
   cloud {
     organization = "Slashback"
 
